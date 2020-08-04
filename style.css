@@ -13,7 +13,7 @@ body {
     padding: 20px;
     margin: 8% auto 0;
     text-align: center;
-    margin: 0;
+    align-items: center;
 }
 .sign-up-form h1 {
     color: #1c8adb;
